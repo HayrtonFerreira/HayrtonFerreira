@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para saber mas sobre programação e sobre mim essas são minhas redes sociais!
+  ### Para saber mas sobre programação ou sobre quem sou eu essas são minhas redes sociais!
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
